@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI and data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any exciting projects
-- 😄 Pronouns: she/her
 
 <!---
 ntsmk/ntsmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
