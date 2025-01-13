@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ntsmk
-- 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Python
+- 👀 I’m interested in AI and Data Analytics
 - 💞️ I’m looking to collaborate on any exciting projects
 
 <!---
