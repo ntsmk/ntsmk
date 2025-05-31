@@ -1,6 +1,6 @@
 👋 Hello, I’m **Nat (@ntsmk)** — a passionate tech explorer bridging the worlds of Python, AI, and Data Analytics.
 
-🌱 Currently diving deep into **Python programming**, sharpening my backend development skills and cloud expertise (GCP/AWS).
+🌱 Currently diving deep into **Python programming**, sharpening my backend development skills and cloud expertise.
 
 🤖 Enthusiastic about leveraging **Artificial Intelligence** and **Data Analytics** to build smart, impactful solutions.
 
