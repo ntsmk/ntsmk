@@ -1,15 +1,11 @@
-👋 Hello, I’m **Nat (@ntsmk)** — a passionate tech explorer bridging the worlds of Python, AI, and Data Analytics.
+## 👋 Hi there!
 
-🌱 Currently diving deep into **Python programming**, sharpening my backend development skills and cloud expertise.
+I'm a technology-driven professional with a diverse background in **data analysis**, **IT infrastructure**, and **backend development**. I bring a strong technical foundation and a problem-solving mindset to every project I take on.
 
-🤖 Enthusiastic about leveraging **Artificial Intelligence** and **Data Analytics** to build smart, impactful solutions.
+🔧 I see technology as a powerful tool to tackle real-world problems — something I'm deeply passionate about. I enjoy building efficient systems and working with **cloud platforms**, **machine learning**, and **artificial intelligence**.
 
-🚀 Always eager to collaborate on innovative projects that challenge the status quo and push technological boundaries.
+🚀 To stay ahead in this ever-evolving industry, I'm constantly learning and growing my skills in **Python**, **Google Cloud Platform (GCP)**, **AWS**, and other modern technologies.
 
-💡 Let’s connect and create something amazing together!
+---
 
-
-<!---
-ntsmk/ntsmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Feel free to connect or explore my projects!
