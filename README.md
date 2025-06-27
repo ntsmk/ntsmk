@@ -4,7 +4,7 @@
 
 🤖 I see technology as a powerful tool to tackle real-world problems — something I'm deeply passionate about. I enjoy building efficient systems and working with **cloud platforms**, **machine learning**, and **artificial intelligence**.
 
-🚀 To stay ahead in this ever-evolving industry, I'm constantly learning and growing my skills in **Python**, **Google Cloud Platform (GCP)**, **Flask**, and other modern technologies.
+🚀 To stay ahead in this ever-evolving industry, I'm constantly learning and growing my skills in **Python**, **Flask**, **Google Cloud Platform (GCP)**, **Docker**, and other modern technologies.
 
 ---
 
