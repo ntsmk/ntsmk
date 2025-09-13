@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Natsumi
+# 👋 Hi there
 
 **Backend Developer | Data & Cloud Enthusiast | AI Explorer**
 
