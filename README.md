@@ -1,10 +1,16 @@
-## 👋 Hi there!
+# 👋 Hi there, I'm Natsumi
 
-🎯 I'm a technology-driven professional with a diverse background in **data analysis**, **IT infrastructure**, and **backend development**. I bring a strong technical foundation and a problem-solving mindset to every project I take on.
+**Backend Developer | Data & Cloud Enthusiast | AI Explorer**
 
-🤖 I see technology as a powerful tool to tackle real-world problems — something I'm deeply passionate about. I enjoy building efficient systems and working with **cloud platforms**, **machine learning**, and **artificial intelligence**.
+🎯 I have a diverse background in data analysis, IT infrastructure, and backend development.  
+🤖 I love using technology to solve real-world problems and build efficient, scalable systems.  
+🚀 Constantly learning modern tools—cloud platforms, machine learning, and automation.
 
-🚀 To stay ahead in this ever-evolving industry, I'm constantly learning and growing my skills in modern technologies.
+**Tech Stack**  
+- **Languages:** Python, JavaScript/TypeScript, SQL  
+- **Frameworks:** Flask, Node.js  
+- **Databases:** PostgreSQL, Firebase/Firestore  
+- **Cloud & DevOps:** Google Cloud Run, Firebase, Docker, GitHub Actions
 
 ---
 
