@@ -11,7 +11,3 @@
 - **Frameworks:** Flask, Node.js  
 - **Databases:** PostgreSQL, Firebase/Firestore  
 - **Cloud & DevOps:** Google Cloud Run, Firebase, Docker, GitHub Actions
-
----
-
-📫 Feel free to connect or explore my projects!
