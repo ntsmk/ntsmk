@@ -10,6 +10,6 @@
 - Testing & QA: Pytest (unit/integration), automated CI/CD testing with GitHub Actions
 - DevOps & Infrastructure: Docker, GitHub Actions (CI/CD), Google Cloud Run, AWS EC2
 - Cloud & AI: Google Cloud Platform, Vertex AI, Google NLP
-- Operating Systems & Scripting: Linux (Ubuntu, Alpine), Bash, PowerShell, deployment automation
+- Infrastructure & Automation: Linux (Ubuntu, Alpine), Bash, PowerShell, deployment automation
 - Frontend Development: HTML, CSS, JavaScript/TypeScript
 - Version Control: Git, GitHub
