@@ -11,6 +11,5 @@
 - DevOps & Infrastructure: Docker, GitHub Actions (CI/CD), Google Cloud Run, AWS EC2
 - Cloud & AI: Google Cloud Platform, Vertex AI, Google NLP
 - Operating Systems & Scripting: Linux (Ubuntu, Alpine), Bash, PowerShell, deployment automation
-- Frontend Development: HTML, CSS, Bootstrap, WordPress
+- Frontend Development: HTML, CSS, JavaScript/TypeScript
 - Version Control: Git, GitHub
-- Collaboration Tools: JIRA, Confluence, Slack
