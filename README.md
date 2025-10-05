@@ -1,9 +1,5 @@
 # 👋 Hi there
 
-🎯 I have a diverse background in data analysis, IT infrastructure, and backend development.  
-🤖 I love using technology to solve real-world problems and build efficient, scalable systems.  
-🚀 Constantly learning modern tools—cloud platforms, machine learning, and automation.
-
 **Tech Stack**  
 - Backend Development: Python, Flask, RESTful APIs, CRUD operations
 - Databases & ORM: PostgreSQL, SQLite, SQLAlchemy, Alembic (migrations)
