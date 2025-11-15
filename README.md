@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Nat.
+# 👋 Hi there.
 
 **Tech Stack**  
 - Backend Development: Python, Flask, RESTful APIs, CRUD operations
