@@ -7,5 +7,5 @@
 - DevOps & Infrastructure: Terraform, Docker, GitHub Actions (CI/CD), Google Cloud Run
 - Cloud & AI: Google Cloud Platform, Vertex AI, Google NLP
 - Infrastructure & Automation: Linux (Ubuntu, Alpine), Bash, PowerShell
-- Frontend Development: HTML, CSS, JavaScript/TypeScript
+- Frontend Development: HTML, CSS, JavaScript
 - Version Control: Git, GitHub
