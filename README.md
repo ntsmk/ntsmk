@@ -9,3 +9,5 @@
 - Infrastructure & Automation: Linux (Ubuntu, Alpine), Bash, PowerShell
 - Frontend Development: HTML, CSS, JavaScript
 - Version Control: Git, GitHub
+
+Feel free to explore my projects!
