@@ -1,13 +1,17 @@
 # 👋 Hi there.
 
-**Tech Stack**  
-- Backend Development: Python, Flask, RESTful APIs, CRUD operations
-- Databases & ORM: PostgreSQL, SQLAlchemy
-- Testing & QA: Pytest (unit/integration), automated CI/CD testing with GitHub Actions
-- DevOps & Infrastructure: Terraform, Docker, GitHub Actions (CI/CD), Google Cloud Run
-- Cloud & AI: Google Cloud Platform, Vertex AI, Google NLP
-- Infrastructure & Automation: Linux (Ubuntu, Alpine), Bash, PowerShell
-- Frontend Development: HTML, CSS, JavaScript
-- Version Control: Git, GitHub
+Building automation tools and cloud-native applications for IT operations.
 
+**Tech Stack**  
+### Core Stack
+* Backend: Python, Flask, RESTful APIs
+* Cloud & AI: Google Cloud Platform, Vertex AI, RAG systems
+* DevOps: Docker, Terraform, GitHub Actions CI/CD, Google Cloud Run
+* Databases: PostgreSQL, Supabase, SQLAlchemy ORM
+
+### Additional Skills
+* Testing: Pytest (unit/integration testing)
+* Infrastructure: Linux (Ubuntu, Alpine), Bash, PowerShell
+* Frontend: HTML, CSS, JavaScript
+* Version Control: Git, GitHub
 Feel free to explore my projects!
