@@ -2,7 +2,6 @@
 
 Building automation tools and cloud-native applications for IT operations.
 
-**Tech Stack**  
 ### Core Stack
 * Backend: Python, Flask, RESTful APIs
 * Cloud & AI: Google Cloud Platform, Vertex AI, RAG systems
