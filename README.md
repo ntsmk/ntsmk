@@ -1,6 +1,7 @@
 # 👋 Hi there.
 
 Building automation tools and cloud-native applications for IT operations.
+Feel free to explore my projects!
 
 ### Core Stack
 * Backend: Python, Flask, RESTful APIs
@@ -13,5 +14,3 @@ Building automation tools and cloud-native applications for IT operations.
 * Infrastructure: Linux (Ubuntu, Alpine), Bash, PowerShell
 * Frontend: HTML, CSS, JavaScript
 * Version Control: Git, GitHub
-
-Feel free to explore my projects!
