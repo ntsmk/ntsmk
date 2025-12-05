@@ -1,7 +1,7 @@
 # 👋 Hi there.
 
-Building automation tools and cloud-native applications for IT operations.
-Feel free to explore my projects!
+- Building automation tools and cloud-native applications for IT operations.
+- Feel free to explore my projects!
 
 ### Core Stack
 * Backend: Python, Flask, RESTful APIs
