@@ -5,12 +5,12 @@
 
 ### Core Stack
 * Backend: Python, Flask, RESTful APIs
+* Databases: PostgreSQL, Supabase, SQLAlchemy ORM
 * Cloud & AI: Google Cloud Platform, Vertex AI, RAG systems
 * DevOps: Docker, Terraform, GitHub Actions CI/CD, Google Cloud Run
-* Databases: PostgreSQL, Supabase, SQLAlchemy ORM
 
 ### Additional Skills
-* Testing: Pytest (unit/integration testing)
 * Infrastructure: Linux (Ubuntu, Alpine), Bash, PowerShell
+* Testing: Pytest (unit/integration testing)
 * Frontend: HTML, CSS, JavaScript
 * Version Control: Git, GitHub
