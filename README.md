@@ -10,7 +10,7 @@
 * DevOps: Docker, Terraform, GitHub Actions CI/CD, Google Cloud Run
 
 ### Additional Skills
-* Infrastructure: Linux (Ubuntu, Alpine), Bash, PowerShell
 * Testing: Pytest (unit/integration testing)
+* Infrastructure: Linux (Ubuntu, Alpine), Bash, PowerShell
 * Frontend: HTML, CSS, JavaScript
 * Version Control: Git, GitHub
