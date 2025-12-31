@@ -11,6 +11,7 @@
 
 ### Additional Skills
 * Testing: Pytest (unit/integration testing)
+* Observability: Cloud Logging & Monitoring (GCP)
 * Infrastructure: Linux (Ubuntu, Alpine), Bash, PowerShell
 * Frontend: HTML, CSS, JavaScript
 * Version Control: Git, GitHub
