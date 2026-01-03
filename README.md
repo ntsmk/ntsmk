@@ -4,7 +4,7 @@
 - Feel free to explore my projects!
 
 ### Core Stack
-* Backend: Python, Flask, RESTful APIs
+* Backend: Python, Flask, REST API integration
 * Databases: PostgreSQL, Supabase, SQLAlchemy ORM
 * Cloud & AI: Google Cloud Platform, Vertex AI, RAG systems
 * DevOps: Docker, Terraform, GitHub Actions CI/CD, Google Cloud Run
