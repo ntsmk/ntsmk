@@ -1,4 +1,4 @@
-# 👋 Building AI-Native Automation Systems
+# Building AI-Native Automation Systems
 
 **Automation Developer** focusing on cloud-native applications and ML-powered operational tools.
 
