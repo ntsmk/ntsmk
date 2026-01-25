@@ -1,25 +1,27 @@
 # Building AI-Native Automation Systems
 
-**Automation Developer** focusing on cloud-native applications and ML-powered operational tools.
+Automation Developer creating cloud-native tools that eliminate manual IT workflows.
 
 ## What I Build
-Cloud-native automation solutions that eliminate manual IT workflows using:
-- **AI/ML**: RAG systems, text classification, NLP (Google Vertex AI)
-- **Backend**: Python/Flask REST APIs with PostgreSQL/Supabase
-- **Infrastructure**: Dockerized deployments on GCP Cloud Run via Terraform
-- **CI/CD**: GitHub Actions with automated testing (Pytest)
+
+Production automation systems combining AI/ML with cloud infrastructure:
+
+* **AI/ML**: RAG chatbots, text classification, NLP (Google Vertex AI)
+* **Backend**: Python/Flask REST APIs, PostgreSQL/Supabase
+* **Infrastructure**: Docker on GCP Cloud Run, Terraform IaC
+* **CI/CD**: GitHub Actions, Pytest
 
 ## Featured Projects
-- **FAQ Chatbot** - RAG-based internal support system (Vertex AI + Supabase vector DB)
-- **Voicemail Urgency Detector** - Fine-tuned ML model + Twilio integration
-- **Per-Diem Automation** - ConnectWise API integration for workflow automation
-- **Office Security System** - Raspberry Pi + sensors + camera + real-time WhatsApp alerts
+
+* **FAQ Chatbot** - RAG-based support system (Vertex AI + Supabase vector DB)
+* **Voicemail Urgency Detector** - Fine-tuned ML model + Twilio integration
+* **Per-Diem Automation** - ConnectWise API workflow automation
+* **Office Security System** - Raspberry Pi sensors + real-time WhatsApp alerts
 
 ## Tech Stack
-**Backend:** Python, Flask, SQLAlchemy  
-**Data:** PostgreSQL, Supabase, vector databases  
-**Cloud/AI:** GCP (Cloud Run, Vertex AI), Terraform, Docker  
-**DevOps:** GitHub Actions, Cloud Logging/Monitoring, Bash/PowerShell  
-**Testing:** Pytest (unit/integration)
+
+Python • Flask • PostgreSQL • Supabase • GCP (Cloud Run, Vertex AI) • Docker • Terraform • GitHub Actions • Pytest
+
+---
 
 📍 Remote from Whitehorse, YT, Canada
