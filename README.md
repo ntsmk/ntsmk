@@ -21,7 +21,3 @@ Production automation systems combining AI/ML with cloud infrastructure:
 ## Tech Stack
 
 Python • Flask • PostgreSQL • Supabase • GCP (Cloud Run, Vertex AI) • Docker • Terraform • GitHub Actions • Pytest
-
----
-
-📍 Remote from Whitehorse, YT, Canada
