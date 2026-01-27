@@ -15,8 +15,8 @@ Production automation systems combining AI/ML with cloud infrastructure:
 
 * **FAQ Chatbot** - RAG-based support system (Vertex AI + Supabase vector DB)
 * **Voicemail Urgency Detector** - Fine-tuned ML model + Twilio integration
-* **Per-Diem Automation** - ConnectWise API workflow automation
 * **Office Security System** - Raspberry Pi sensors + real-time WhatsApp alerts
+* **Per-Diem Automation** - ConnectWise API workflow automation
 
 ## Tech Stack
 
