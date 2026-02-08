@@ -8,7 +8,7 @@ Production automation systems combining AI/ML with cloud infrastructure:
 
 * **AI/ML**: RAG chatbots, text classification, NLP (Google Vertex AI)
 * **Backend**: Python/Flask REST APIs, PostgreSQL/Supabase
-* **Infrastructure**: Docker on GCP Cloud Run, Terraform IaC
+* **Infrastructure**: Docker on GCP Cloud Run, Terraform IaC, Kubernetes (K3s)
 * **CI/CD**: GitHub Actions, Pytest
 
 ## Featured Projects
@@ -19,4 +19,4 @@ Production automation systems combining AI/ML with cloud infrastructure:
 
 ## Tech Stack
 
-Python • Flask • PostgreSQL • Supabase • GCP (Cloud Run, Vertex AI) • Docker • Terraform • GitHub Actions • Pytest
+Python • Flask • PostgreSQL • Supabase • GCP (Cloud Run, Vertex AI) • Docker • Kubernetes (K3s) • Terraform • GitHub Actions • Pytest
