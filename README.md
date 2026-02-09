@@ -1,6 +1,6 @@
 # Building AI-Native Automation Systems
 
-Automation Developer creating cloud-native tools that eliminate manual IT workflows.
+AI Automation Engineer building production systems that replace manual IT workflows using AI, APIs, and cloud infrastructure.
 
 ## What I Build
 
