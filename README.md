@@ -4,9 +4,9 @@ AI Automation Engineer building production systems that replace manual IT workfl
 
 ## Featured Projects
 
-* **FAQ Chatbot** - RAG-based support system (Vertex AI + Supabase vector DB)
-* **Voicemail Urgency Detector** - Fine-tuned ML model with real voicemail data + ConnectWise API + Twilio integration
-* **Office Security System** - Raspberry Pi sensors + camera + real-time WhatsApp alerts
+* [**FAQ Chatbot**](https://github.com/ntsmk/chatbot-for-internal-member) - RAG-based support system (Vertex AI + Supabase vector DB)
+* [**Voicemail Urgency Detector**](https://github.com/ntsmk/voicemail-urgency-detection-app) - Fine-tuned ML model with real voicemail data + ConnectWise API + Twilio integration
+* [**Office Security System**](https://github.com/ntsmk/security-system) - Raspberry Pi sensors + camera + real-time WhatsApp alerts
 
 ## Tech Stack
 
