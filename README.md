@@ -1,6 +1,6 @@
 # Building AI-Native Automation Systems
 
-AI Automation Engineer building production systems that replace manual IT workflows using AI, APIs, and cloud infrastructure.
+AI Automation Engineer building production systems that replace manual IT workflows using APIs, AI, and cloud infrastructure.
 
 ## Featured Projects
 
