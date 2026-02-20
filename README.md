@@ -1,7 +1,3 @@
-# Building AI-Native Automation Systems
-
-AI Automation Engineer building production systems that replace manual IT workflows using APIs, AI, and cloud infrastructure.
-
 ## Featured Projects
 
 * [**FAQ Chatbot**](https://github.com/ntsmk/chatbot-for-internal-member) - RAG-based support system (Vertex AI + Supabase vector DB)
