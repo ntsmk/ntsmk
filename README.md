@@ -4,7 +4,7 @@
 * [**Voicemail Urgency Detector**](https://github.com/ntsmk/voicemail-urgency-detection-app) - Fine-tuned ML model with real 300+ voicemail data + ConnectWise API + Twilio integration
 * [**Office Security System**](https://github.com/ntsmk/security-system) - Raspberry Pi sensors + camera + real-time WhatsApp alerts
 
-## Tech Stack
+## Skills
 
 * AI/ML: Google Vertex AI (RAG, fine-tuning)
 * Backend: Python, Flask, PostgreSQL, Supabase
