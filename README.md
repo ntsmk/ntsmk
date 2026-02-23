@@ -13,5 +13,5 @@
 
 ## Contact 
 
-- Blog: [https://ntsmk.xyz/](https://ntsmk.xyz/)
+- Blog: [https://ntsmk.xyz](https://ntsmk.xyz)
 - Email: natsumi.kosaka.biz [at] gmail [dot] com.
