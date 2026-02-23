@@ -10,3 +10,7 @@
 * Backend: Python, Flask, PostgreSQL, Supabase
 * Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform
 * CI/CD: GitHub Actions, Pytest
+
+## Inquiries 
+
+Please open an issue or reach out via natsumi.kosaka.biz [at] gmail [dot] com.
