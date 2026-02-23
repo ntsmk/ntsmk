@@ -11,6 +11,7 @@
 * Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform
 * CI/CD: GitHub Actions, Pytest
 
-## Inquiries 
+## Contact 
 
-Please open an issue or reach out via natsumi.kosaka.biz [at] gmail [dot] com.
+- Blog: [https://ntsmk.xyz/](https://ntsmk.xyz/)
+- Email: natsumi.kosaka.biz [at] gmail [dot] com.
