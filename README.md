@@ -8,7 +8,7 @@
 
 * Backend: Python, Flask, PostgreSQL, Supabase
 * AI/ML: Google Vertex AI (RAG, fine-tuning)
-* Cloud Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform
+* Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform
 * CI/CD: GitHub Actions, Pytest
 
 ## Contact 
