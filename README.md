@@ -11,6 +11,11 @@
 * Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform
 * CI/CD: GitHub Actions, Pytest
 
+## Currently learning
+
+- TypeScript
+- Firebase
+
 ## Contact 
 
 - Blog: [https://ntsmk.xyz](https://ntsmk.xyz)
