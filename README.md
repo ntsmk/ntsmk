@@ -11,7 +11,7 @@
 * Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform
 * CI/CD: GitHub Actions, Pytest
 
-## Currently learning
+## Currently Learning
 
 - TypeScript
 - Firebase
