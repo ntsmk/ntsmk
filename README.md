@@ -19,4 +19,4 @@
 ## Contact 
 
 - Blog: [https://ntsmk.dev](https://ntsmk.dev)
-- Email: me [at] ntsmk.dev
+- Email: [![Email](https://img.shields.io/badge/Email-me%20%5Bat%5D%20ntsmk.dev-blue?style=flat-square&logo=gmail)](mailto:me@ntsmk.dev)
