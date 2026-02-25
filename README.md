@@ -19,4 +19,4 @@
 ## Contact 
 
 - Blog: [https://ntsmk.dev](https://ntsmk.dev)
-- Email: natsumi.kosaka.biz [at] gmail [dot] com.
+- Email: me [at] ntsmk.dev
