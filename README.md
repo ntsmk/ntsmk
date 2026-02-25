@@ -18,5 +18,5 @@
 
 ## Contact 
 
-- Blog: [https://ntsmk.dev](https://ntsmk.dev)
-- Email: [![Email](https://img.shields.io/badge/Email-me%20%5Bat%5D%20ntsmk.dev-blue?style=flat-square&logo=gmail)](mailto:me@ntsmk.dev)
+- [![Blog](https://img.shields.io/badge/Blog-ntsmk.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ntsmk.dev)
+- [![Email](https://img.shields.io/badge/Email-me@ntsmk.dev-blue?style=flat-square&logo=gmail)](mailto:me@ntsmk.dev)
