@@ -14,6 +14,7 @@
 ## Currently Learning
 
 - TypeScript
+- React/Next.js
 - Firebase
 
 ## Contact 
