@@ -16,8 +16,3 @@
 - TypeScript
 - React/Next.js
 - Firebase
-
-## Contact 
-
-- Blog: https://ntsmk.dev
-- Email: me [at] ntsmk.dev
