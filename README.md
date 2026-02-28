@@ -14,5 +14,5 @@
 ## Currently Learning
 
 - TypeScript
-- React/Next.js
+- Next.js
 - Firebase
