@@ -1,3 +1,5 @@
+<img width="1557" height="317" alt="Screenshot_2026-03-04_22-42-10" src="https://github.com/user-attachments/assets/348f180d-203c-4776-98ab-25fefbc4426e" />
+
 ## Featured Projects
 
 * [**Voicemail Urgency Detector**](https://github.com/ntsmk/voicemail-urgency-detection-app) - Fine-tuned ML model with real 300+ voicemail data + ConnectWise API + Twilio integration
