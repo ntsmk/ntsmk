@@ -18,6 +18,6 @@
 
 ## Currently Learning
 
-- TypeScript
 - React/Next.js
+- TypeScript
 - Firebase
