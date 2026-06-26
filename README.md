@@ -20,4 +20,3 @@
 
 - TypeScript
 - Firebase
-- React
