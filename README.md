@@ -12,10 +12,9 @@
 
 * Backend: Python, Flask, PostgreSQL, Supabase
 * AI/ML: Google Vertex AI (RAG, fine-tuning)
-* Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, AWS EC2, Vercel, Terraform
+* Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, AWS EC2, Terraform
 * CI/CD: GitHub Actions, Pytest
 
 ## Currently Learning
 
-- TypeScript
-- Firebase
+* TypeScript & Firebase (Full-stack application logic)
