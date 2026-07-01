@@ -10,7 +10,7 @@
 
 ## Skills
 
-* Backend: Python (Flask/FastAPI), PostgreSQL, Supabase
+* Backend: Python (Flask), PostgreSQL, Supabase
 * AI/ML: Google Vertex AI, RAG, Vector Embeddings
 * DevOps & Infrastructure: Linux (Fedora, Arch/EndeavourOS, Debian), Docker, Kubernetes (K3s), GCP Cloud Run, Terraform, GitHub Actions, Pytest
 
