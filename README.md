@@ -12,7 +12,7 @@
 
 * Backend: Python (Flask/FastAPI), PostgreSQL, Supabase
 * AI/ML: Google Vertex AI, RAG, Vector Embeddings
-* DevOps & Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform, GitHub Actions, Pytest
+* DevOps & Infrastructure: Linux (Fedora/RHEL, Arch, Debian/Ubuntu ecosystems), Docker, Kubernetes (K3s), GCP Cloud Run, Terraform, GitHub Actions, Pytest
 
 ## Currently Learning
 
