@@ -10,10 +10,9 @@
 
 ## Skills
 
-* Backend: Python, Flask, PostgreSQL, Supabase
-* AI/ML: Google Vertex AI, RAG, Model Fine-Tuning, Vector Embeddings
-* Infrastructure: Terraform, Docker, GCP Cloud Run, AWS EC2, Kubernetes (K3s)
-* CI/CD: GitHub Actions, Pytest
+* Backend: Python (Flask/FastAPI), PostgreSQL, Supabase
+* AI/ML: Google Vertex AI, RAG, Vector Embeddings
+* DevOps & Infrastructure: Docker, Kubernetes (K3s), GCP Cloud Run, Terraform, GitHub Actions
 
 ## Currently Learning
 
